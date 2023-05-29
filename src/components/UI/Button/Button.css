@@ -18,3 +18,9 @@
   border-color: #ac0e77;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
 }
+
+.button.disable {
+  border-color: red;
+  background: rgb(255, 219, 219);
+  color: #ac0e77;
+}
